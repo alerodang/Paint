@@ -10,7 +10,7 @@ Se encarga de almacenar en una lista cada uno de los puntos que creamos, para po
 ### clean()
 Vuelve al estado inicial de la aplicación.
 ### paintBackground()
-cambia el color del lienzo al color seleccionado.
+Cambia el color del lienzo al color seleccionado.
 ### paintPoints()
 Pinta lo spuntos almacenados en la lista sobre el lienzo.
 ## Controles
